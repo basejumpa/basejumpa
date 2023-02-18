@@ -10,4 +10,4 @@ Previously at [TU-Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), [Contine
 
 Currently with [Marquardt Group](https://www.marquardt.com/us/). There I'm the first [Avengineer](https://avengineers.github.io) of the [crew at the company's site](https://avengineers.github.io/rmt/crew/index.html) in the [Frankfurt Metropolitan Area](https://goo.gl/maps/sgnQSeVCdqL3peSE7) (aka Rhine-Main-Area). 
 
-Find me around the internet at [LinkedIn](https://linkedin.com/in/basejumpa).
+Find me around the internet at [LinkedIn](https://linkedin.com/in/mann-wahrenberg).
