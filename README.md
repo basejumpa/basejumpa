@@ -6,7 +6,7 @@ My area of expertise is the software engineering of software-intensive mechatron
 
 My most important tool is asynchronous communication in written form through jointly created documents using the docs-as-code approach. My technologies of choice here are Sphinx, VSCode and Git.
 
-In my career, I have gained experience as a software and system developer, architect, teacher of computer science, mathematics and mechatronics after school, community service and mechanical engineering studies, i.e. since 2001.
+In my career, I have gained experience as a software and system developer, architect, product owner, scrum master, department head, teacher of computer science, mathematics and mechatronics after school, community service and mechanical engineering studies, i.e. since 2001.
 
 Previously, I worked at [TU-Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), [Continental](https://www.continental.com/en/), [Berufsbildende Schule Technik Mainz](https://www.bbs1-mainz.com/), [AKASOL](https://de.wikipedia.org/wiki/BorgWarner_Akasol) (now part of BorgWarner) and [Marquardt Group](https://www.marquardt.com/us/).
 
