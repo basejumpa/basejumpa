@@ -12,9 +12,7 @@ Previously, I worked at [TU-Darmstadt](https://www.tu-darmstadt.de/index.en.jsp)
 
 I currently work for the [VITRONIC Group](https://www.vitronic.com).
 
-Even in my free time, I can't get enough of software, electronics and mechanics.
-
-Besides technology, I enjoy endurance sports on land and in the water, sweet and even more salty. I love the breathless depths of freediving and the expansive views in the mountains.
+Even in my free time, I can't get enough of software, electronics and mechanics. Besides technology, I enjoy exercise on land and in the water, sweet and even more salty (cycling, biking, running, hiking, swimming, free and scuba diving). I love the breathless depths of freediving and the expansive views in the mountains.
 
 You can find me on [LinkedIn](https://linkedin.com/in/mann-wahrenberg) or on my [Blog](https://basejumpa.github.io).
 
