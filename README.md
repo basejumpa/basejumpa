@@ -1,17 +1,18 @@
-Hello, I'm [Alexander](https://www.google.com/search?q=alexander+meaning).
+Hello!
 
-My domain is Software and Systems ProductLine Engineering of Mechatronics in the Automotive Industry.
+I am [Alexander](https://www.google.com/search?q=alexander+meaning).
 
-My focus lies in helping colleagues in Research and Development with their technical, process and cultural transformation.
+My area of expertise is the software engineering of software-intensive mechatronic systems, in particular the design of software architectures.
 
-After my school, civil service and studies in mechanical engineering, so since 2001, I am software and systems engineer, architect and also teacher in computer science, mathematics and mechatronics.
+Here I try to do my best to contribute to designs that are fun for us developers and at the same time are cornerstones for a long-term competitive product.
 
-Previously at [TU-Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), [Continental](https://www.continental.com/en/), [Berufsbildende Schule Technik Mainz](https://www.bbs1-mainz.com/), [AKASOL](https://de.wikipedia.org/wiki/BorgWarner_Akasol) (which has become a part of BorgWarner) and [Marquardt Group](https://www.marquardt.com/us/).
+In my career, I have gained experience as a software and system developer, architect, teacher of computer science, mathematics and mechatronics after school, community service and mechanical engineering studies, i.e. since 2001.
 
-Currently with [VITRONIC Group](https://www.vitronic.com).
+Previously, I worked at [TU-Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), [Continental](https://www.continental.com/en/), [Berufsbildende Schule Technik Mainz](https://www.bbs1-mainz.com/), [AKASOL](https://de.wikipedia.org/wiki/BorgWarner_Akasol) (now part of BorgWarner) and [Marquardt Group](https://www.marquardt.com/us/).
 
-Beside engineering I enjoy endurance sports at land or in the water, sweet and even more salty. I love the breathless depths of free diving and the expansive views in the mountains.
+I currently work for the VITRONIC Group.
 
-Find me around the internet at [LinkedIn](https://linkedin.com/in/mann-wahrenberg).
+Besides technology, I enjoy endurance sports on land and in the water, sweet and even more salty. I love the breathless depths of freediving and the expansive views in the mountains.
 
+You can find me on [LinkedIn](https://linkedin.com/in/mann-wahrenberg) or on my [Blog](https://basejumpa.github.io).
 
