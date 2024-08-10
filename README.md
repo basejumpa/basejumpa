@@ -10,9 +10,9 @@ In my career, I have gained experience as a software and system developer, archi
 
 Previously, I worked at [TU-Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), [Continental](https://www.continental.com/en/), [Berufsbildende Schule Technik Mainz](https://www.bbs1-mainz.com/), [AKASOL](https://de.wikipedia.org/wiki/BorgWarner_Akasol) (now part of BorgWarner) and [Marquardt Group](https://www.marquardt.com/us/).
 
-I currently work for the VITRONIC Group.
+I currently work for the [VITRONIC Group](https://www.vitronic.com).
 
-Even in my free time, I can't get enough of software, electronics and mechanics. I am a fan-boy of git, VSCode, Sphinx and GitHub.
+Even in my free time, I can't get enough of software, electronics and mechanics.
 
 Besides technology, I enjoy endurance sports on land and in the water, sweet and even more salty. I love the breathless depths of freediving and the expansive views in the mountains.
 
