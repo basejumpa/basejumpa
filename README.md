@@ -12,6 +12,8 @@ Previously, I worked at [TU-Darmstadt](https://www.tu-darmstadt.de/index.en.jsp)
 
 I currently work for the VITRONIC Group.
 
+Even in my free time, I can't get enough of software, electronics and mechanics. I am a fan-boy of git, VSCode, Sphinx and GitHub.
+
 Besides technology, I enjoy endurance sports on land and in the water, sweet and even more salty. I love the breathless depths of freediving and the expansive views in the mountains.
 
 You can find me on [LinkedIn](https://linkedin.com/in/mann-wahrenberg) or on my [Blog](https://basejumpa.github.io).
